@@ -17,6 +17,4 @@ func main() {
 	fmt.Println(teste1) //Valor da variavel
 	fmt.Println(teste2) //Valor da copia
 	fmt.Println(*teste3) //Valor do ponteiro
-
-
 }
